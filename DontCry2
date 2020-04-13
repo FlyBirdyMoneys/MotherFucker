@@ -14,7 +14,7 @@
             "my_chosen": "https://database.gdriveplayer.me/player.php?type=",
             "series_v2": "http://api.gdriveplayer.us/v2/series/,
             "anime_v1": "http://api.gdriveplayer.us/v1/animes/",
-            "drama_v1": "https://api.gdriveplayer.us/v1/drama/"
+            "drama_v1": "http://api.gdriveplayer.us/v1/drama/"
         }
     ]
 }
