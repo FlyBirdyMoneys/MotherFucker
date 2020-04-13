@@ -15,6 +15,7 @@
             "series_v2": "http://api.gdriveplayer.us/v2/series/",
             "anime_v1": "http://api.gdriveplayer.us/v1/animes/",
             "drama_v1": "http://api.gdriveplayer.us/v1/drama/",
+            "live_tv": "https://lives.beinsports.online/api/mainapi.php?imah",
             "email_sender": "tapidahanjakals@gmail.com",
             "email_password": "sableng212"
         }
